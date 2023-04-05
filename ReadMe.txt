@@ -1,4 +1,4 @@
-This game is accessibly via a arrow keys on a computer device.
+This game is playable via a arrow keys on a computer device.
 
 It was built using Unity Version 2020.3.29f1
 
